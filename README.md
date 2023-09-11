@@ -1,6 +1,5 @@
 # ConversorMaquinaDeTuring
-Converte um arquivo do JFlap para o formato do https://turingmachinesimulator.com
+Project made to help in an Graph class assignment. Made with [@darkratos](https://github.com/darkratos)
 
-Basta colocar o arquivo input.jff na mesma pasta do script e executá-lo, gerando um output.txt com o resultado.
+It takes an input.jff file made from JFlap on the root folder and converts it to a output.txt that can be run in [Turing machine simulator](https://turingmachinesimulator.com/)
 
-Desenvolvido com [@xandfcosta](https://github.com/xandfcosta)
